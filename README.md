@@ -42,11 +42,11 @@ The condition is simply 🟩 for working as intended and easy to work with, <br>
 🔶 for bit jancky or challenging to work with, but no high security risico, <br>
 and 🔴 for broken, not working or hard to work with, and or high security risico.
 
-| Feature | Stability | Condition |
-| ----------- | :-----------: | :--: |
-| styled_text() | Unstable | 🟩 / 🔶 |
-| color_generator | Stable | 🟩 |
-| throw_exception() | Unstable | 🟩 |
+| Feature | Stability | Condition | Done |
+| ----------- | :-----------: | :--: | :--: |
+| styled_text() | Stable | 🟩 / 🔶 | Undone |
+| color_generator | Stable | 🟩 | Undone|
+| throw_exception() | Stable | 🟩 | Undone|
 
 ---
 
